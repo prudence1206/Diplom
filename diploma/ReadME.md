@@ -1,6 +1,5 @@
-## HOW to run the project:
+##Как пускануть проект:
 
-- to turn on google and facebook make [steps](https://github.com/ZverevDmitriyZDV/ZDV_Diploma_DRF_backend/tree/master/photo%20for%20help):
 
 - install all libraries 
 ```
@@ -22,7 +21,7 @@
   python -m celery -A diploma  worker
 ```
 
-## For correct tests, follow steps below:
+## Запуск тестов:
 
 - create connection with postgress DB
 ```
